@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SubhamGiri-lab/DSA/tree/master/0012-integer-to-roman) |
 | [3731-find-missing-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/SubhamGiri-lab/DSA/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/SubhamGiri-lab/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
