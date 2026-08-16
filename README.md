@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SubhamGiri-lab/DSA/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/SubhamGiri-lab/DSA/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/SubhamGiri-lab/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SubhamGiri-lab/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SubhamGiri-lab/DSA/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SubhamGiri-lab/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/SubhamGiri-lab/DSA/tree/master/0290-word-pattern) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubhamGiri-lab/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
