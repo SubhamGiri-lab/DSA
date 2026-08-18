@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/SubhamGiri-lab/DSA/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SubhamGiri-lab/DSA/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
