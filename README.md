@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SubhamGiri-lab/DSA/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
@@ -167,5 +170,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
