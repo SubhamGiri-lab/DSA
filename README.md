@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/SubhamGiri-lab/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SubhamGiri-lab/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
