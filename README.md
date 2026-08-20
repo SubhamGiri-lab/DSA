@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SubhamGiri-lab/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SubhamGiri-lab/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/SubhamGiri-lab/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SubhamGiri-lab/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SubhamGiri-lab/DSA/tree/master/2187-minimum-time-to-complete-trips) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SubhamGiri-lab/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SubhamGiri-lab/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/SubhamGiri-lab/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SubhamGiri-lab/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SubhamGiri-lab/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SubhamGiri-lab/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
