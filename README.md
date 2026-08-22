@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SubhamGiri-lab/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/SubhamGiri-lab/DSA/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1095-find-in-mountain-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/SubhamGiri-lab/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SubhamGiri-lab/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SubhamGiri-lab/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubhamGiri-lab/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/3731-find-missing-elements) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/SubhamGiri-lab/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SubhamGiri-lab/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SubhamGiri-lab/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubhamGiri-lab/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
