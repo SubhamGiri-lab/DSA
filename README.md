@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SubhamGiri-lab/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0697-degree-of-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SubhamGiri-lab/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/SubhamGiri-lab/DSA/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1095-find-in-mountain-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SubhamGiri-lab/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0697-degree-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SubhamGiri-lab/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubhamGiri-lab/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
