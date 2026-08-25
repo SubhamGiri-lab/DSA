@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SubhamGiri-lab/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0697-degree-of-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SubhamGiri-lab/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SubhamGiri-lab/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubhamGiri-lab/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/SubhamGiri-lab/DSA/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SubhamGiri-lab/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SubhamGiri-lab/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubhamGiri-lab/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
