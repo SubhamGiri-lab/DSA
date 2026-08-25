@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SubhamGiri-lab/DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SubhamGiri-lab/DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0287-find-the-duplicate-number) |
