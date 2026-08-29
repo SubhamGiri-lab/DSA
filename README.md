@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SubhamGiri-lab/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SubhamGiri-lab/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SubhamGiri-lab/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SubhamGiri-lab/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SubhamGiri-lab/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
