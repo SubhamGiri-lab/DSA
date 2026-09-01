@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SubhamGiri-lab/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SubhamGiri-lab/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SubhamGiri-lab/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SubhamGiri-lab/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SubhamGiri-lab/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SubhamGiri-lab/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SubhamGiri-lab/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
