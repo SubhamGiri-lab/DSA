@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SubhamGiri-lab/DSA/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/SubhamGiri-lab/DSA/tree/master/0162-find-peak-element) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SubhamGiri-lab/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Pigeonhole Principle
