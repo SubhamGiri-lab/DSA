@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SubhamGiri-lab/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-transpose-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/SubhamGiri-lab/DSA/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
 | [1095-find-in-mountain-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SubhamGiri-lab/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,11 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
+| [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
+| [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
 ## Matrix
 |  |
 | ------- |
