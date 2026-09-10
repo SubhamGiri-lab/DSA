@@ -249,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/SubhamGiri-lab/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SubhamGiri-lab/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SubhamGiri-lab/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SubhamGiri-lab/DSA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SubhamGiri-lab/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/SubhamGiri-lab/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SubhamGiri-lab/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SubhamGiri-lab/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
