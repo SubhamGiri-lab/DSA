@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/SubhamGiri-lab/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SubhamGiri-lab/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0287-find-the-duplicate-number) |
