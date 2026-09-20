@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SubhamGiri-lab/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SubhamGiri-lab/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/SubhamGiri-lab/DSA/tree/master/0162-find-peak-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SubhamGiri-lab/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SubhamGiri-lab/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubhamGiri-lab/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/SubhamGiri-lab/DSA/tree/master/0867-transpose-matrix) |
 ## Pigeonhole Principle
