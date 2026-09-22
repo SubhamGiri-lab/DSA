@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SubhamGiri-lab/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SubhamGiri-lab/DSA/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SubhamGiri-lab/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SubhamGiri-lab/DSA/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/SubhamGiri-lab/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0264-ugly-number-ii) |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SubhamGiri-lab/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
