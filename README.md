@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SubhamGiri-lab/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/SubhamGiri-lab/DSA/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SubhamGiri-lab/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/SubhamGiri-lab/DSA/tree/master/3870-count-commas-in-range) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
 ## Union-Find
 |  |
@@ -363,4 +365,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SubhamGiri-lab/DSA/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
