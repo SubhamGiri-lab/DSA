@@ -8,57 +8,52 @@
  */
  
 class Solution {
-    public int peakIndex(MountainArray arr){
-        int len = arr.length();
+    public int peakIdx(MountainArray mount){
         int left = 0;
-        int right = len - 1;
+        int right = mount.length() - 1;
         while(left <= right){
             int mid = left + (right - left) / 2;
-            if(arr.get(mid) < arr.get(mid + 1)){
+            if(mount.get(mid) < mount.get(mid + 1)){
+                left = mid + 1;
+            }else{
+                right = mid - 1;
+            }
+        } 
+        return left;
+    }
+    public int ascending(MountainArray mount, int target, int left, int right){
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            if(mount.get(mid) == target){
+                return mid;
+            }else if(mount.get(mid) < target){
                 left = mid + 1;
             }else{
                 right = mid - 1;
             }
         }
-        return left;
+        return -1;
     }
-    public int ascendingBinary(MountainArray arr, int target, int l, int r){
-        while(l <= r){
-            int mid = l + (r - l) / 2;
-            int x = arr.get(mid);
-            if(x == target){
+    public int decending(MountainArray mount, int target, int left, int right){
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            if(mount.get(mid) == target){
                 return mid;
-            }
-            else if(x < target){
-                l = mid + 1;
+            }else if(mount.get(mid) > target){
+                left = mid + 1;
             }else{
-                r = mid - 1;
+                right = mid - 1;
             }
         }
         return -1;
     }
 
-    public int decendingBinary(MountainArray arr, int target, int l, int r){
-        while(l <= r){
-            int mid = l + (r - l) / 2;
-            int x = arr.get(mid);
-            if(x == target){
-                return mid;
-            }
-            else if(x < target){
-                r = mid - 1;
-            }else{
-                l = mid + 1;
-            }
+    public int findInMountainArray(int target, MountainArray mount) {
+        int x = peakIdx(mount);
+        int res = ascending(mount, target, 0, x);
+        if(res == -1){
+            return decending(mount, target, x + 1, mount.length() - 1);
         }
-        return -1;
-    }
-    public int findInMountainArray(int target, MountainArray arr) {
-        int peak = peakIndex(arr);
-        int ans = ascendingBinary(arr, target, 0, peak);
-        if(ans != -1){
-            return ans;
-        }
-        return decendingBinary(arr, target, peak + 1, arr.length() - 1);
+        return res;
     }
 }
