@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/SubhamGiri-lab/DSA/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SubhamGiri-lab/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SubhamGiri-lab/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/SubhamGiri-lab/DSA/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/SubhamGiri-lab/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SubhamGiri-lab/DSA/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SubhamGiri-lab/DSA/tree/master/0292-nim-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SubhamGiri-lab/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
