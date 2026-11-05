@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
 | [1095-find-in-mountain-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SubhamGiri-lab/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SubhamGiri-lab/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SubhamGiri-lab/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SubhamGiri-lab/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SubhamGiri-lab/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SubhamGiri-lab/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SubhamGiri-lab/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SubhamGiri-lab/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SubhamGiri-lab/DSA/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/SubhamGiri-lab/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SubhamGiri-lab/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SubhamGiri-lab/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SubhamGiri-lab/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SubhamGiri-lab/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SubhamGiri-lab/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SubhamGiri-lab/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SubhamGiri-lab/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/SubhamGiri-lab/DSA/tree/master/0962-maximum-width-ramp) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SubhamGiri-lab/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
